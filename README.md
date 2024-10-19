@@ -12,7 +12,7 @@ A ported buckshot roulette console game that used to go viral among gamers on St
 1. Clone this repository:
 
 ```bach
-git clone https://github.com/your-username/russian-roulette-game.git
+git clone https://github.com/Deloyers/buckshot_rullet_console.git
 ```
 
 2. Install the required packages:
